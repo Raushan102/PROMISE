@@ -8,6 +8,6 @@ fetch("http://type.fit/api/quotes").then((response)=>
 }).then((value)=>
 {
     console.log(value);
-})
+});
 
 
